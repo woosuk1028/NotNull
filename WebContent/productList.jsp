@@ -12,7 +12,7 @@
 <style>
 table{margin:0 auto;}
 #productImage {width:350px; height:450px; top: 300px;}
-#ptable {margin-top:50px;}
+#ptable {position:absolute;}
 </style>
 </head>
 <body>

@@ -1,0 +1,25 @@
+li{list-style:none;}
+a{text-decoration:none; color:black;}
+*{margin:0; padding:0;}
+
+/* layout */
+#wrap{margin:0 auto; width:100%;}
+
+/* header */
+#header{}
+#header .logo{display:flex; justify-content:center;}
+#header .nav-left{float:left;}
+#header .nav-left li{ padding-left:15px;}
+#header .nav-left ul li a:hover{color:#ccc;}
+#header .nav-left .submenu {display:none;}
+#header .nav-left .submenu li {padding-top:20px; width:65px; font-size:20px; font-family:arial; height:25px;}
+#header .nav-right{float:right; margin-right:15px;}
+#header .nav-right li{float:right; padding-left:15px;}
+
+
+
+/* cont */
+#content {}
+#content .door {width: 30%; height: 50%; margin-top:150px;}
+#content .door img {width:80%;height:80%;}
+

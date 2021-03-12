@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource
+		name="jdbc/dekohip"
+		auth="Container"
+		type="javax.sql.DataSource"
+		username="ip20bllh"
+		password="ip20bllh"
+		driverClassName="com.mysql.jdbc.Driver"
+		factory="org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory"
+		url="jdbc:mysql://118.131.179.138:3306/ip20b_llh"
+		maxActive="500"
+	/>
+</Context>
